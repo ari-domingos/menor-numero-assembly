@@ -1,4 +1,14 @@
-# 🔢 Descobrir o Número Menor
+# 🔢 Descobrir o Número Menor - NEANDER
+
+<div align="center">
+
+!Neander Processor 
+!Assembly 
+!Education
+
+Programa que exibe o número menor no processador Neander
+
+</div>
 
 ## 📖 Sobre o Projeto
 
