@@ -1,11 +1,12 @@
-<div align="center">
 # 🔢 Descobrir o Número Menor - NEANDER
+
+<div align="center">
 
 ![NeanderProcessor ](https://img.shields.io/badge/Architecture-Neander-8A2BE2)
 ![Assembly ](https://img.shields.io/badge/Language-Assembly-64DD9C)
 ![Education](https://img.shields.io/badge/Purpose-Education-FF6B6B)
 
-Programa que exibe o número menor no processador Neander
+Programa que exibe o número menor
 
 </div>
 
