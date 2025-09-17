@@ -2,9 +2,9 @@
 
 <div align="center">
 
-!Neander Processor 
-!Assembly 
-!Education
+![NeanderProcessor ](https://img.shields.io/badge/Architecture-Neander-8A2BE2)
+![Assembly ](https://img.shields.io/badge/Language-Assembly-64DD9C)
+![Education](https://img.shields.io/badge/Purpose-Education-FF6B6B)
 
 Programa que exibe o número menor no processador Neander
 
